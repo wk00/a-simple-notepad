@@ -1,2 +1,11 @@
 # a-simple-notepad
-用Hbuilder编辑，hybrid app框架mui开发的一款记事本类app，用于自己学习和熟悉mui
+用Hbuilder编辑，hybrid app框架[mui](http://dev.dcloud.net.cn/mui/)开发的一款记事本类app，用于自己学习和熟悉mui
+## 计划列表 ##
+> **0.1.0** 
++ 创捷app,包含两个基本的页面：主页面和编辑页面
+> **0.2.0**
++ 创建数据库，完成编辑后的数据储存
+> **0.3.0**
++ 读取数据信息，显示在主页面上
+> **0.4.0**
++ 主页面上实现基本的快捷操作
